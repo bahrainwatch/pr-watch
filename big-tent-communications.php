@@ -4,10 +4,10 @@
     <title>Big Tent Communications | PR Watch</title>
     <?php include("/home/bahrainwatch/bahrainwatch.org/head.php"); ?>
   </head>
-  
+
   <body>
     <?php include("/home/bahrainwatch/bahrainwatch.org/navbar.php"); ?>
-    
+
     <div class="container">
       <div class="row">
 	<div class="span12">
@@ -26,12 +26,12 @@
 		    </td>
 		  <tr>
 		    <td>
-		      <b>Nature of Business:</b> Public relations<br/>	
+		      <b>Nature of Business:</b> Public relations<br/>
 		    </td>
 		  </tr>
 		  <tr>
 		    <td>
-		      <b>Website:</b> <a href="http://www.bigtentcommunications.com/">http://www.bigtentcommunications.com/</a><br/>
+		      <b>Website:</b> <a href="https://web.archive.org/web/20111006035051/http://www.bigtentcommunications.com/">http://www.bigtentcommunications.com/</a><br/>
 		    </td>
 		  </tr>
 		  <tr>
@@ -45,18 +45,18 @@
 		    </td>
 		  </tr>
 		</table>
-		
+
 		<div class="well">
 		  <h3>Relationship with Bahrain Government</h3>
 		  <hr/>
 		  <p>
-		    Big Tent Communications is a London-based PR firm headed by David Cracknell, former political editor of the Sunday Times. Its work for the Bahrain government came to light in January 2012 when Cracknell reportedly sent out unsolicited emails to a number of motoring journalists ahead of the Bahrain Formula 1 Grand Prix race, attempting to delegitimize report of torture and protests. Matt Hardigree, one of the journalist who received the emails wrote <a href="http://jalopnik.com/5900113/how-bahrain-spends-millions-to-spin-the-press">a blog post</a> about it. In one of the emails from Hardigree to Cracknell, he explained:
+		    Big Tent Communications is a London-based PR firm headed by David Cracknell, former political editor of the Sunday Times. Its work for the Bahrain government came to light in January 2012 when Cracknell reportedly sent out unsolicited emails to a number of motoring journalists ahead of the Bahrain Formula 1 Grand Prix race, attempting to delegitimize report of torture and protests. Matt Hardigree, one of the journalist who received the emails wrote <a href="https://web.archive.org/web/20171019223653/https://jalopnik.com/5900113/how-bahrain-spends-millions-to-spin-the-press">a blog post</a> about it. In one of the emails from Cracknell to Hardigree, he explained:
 		  </p>
 		  <blockquote>
 		    "I wanted to reassure you that the grand prix in April will go ahead as planned and there is not nearly as much trouble in the country and the opposition PR machine would have the world believe. Yes, there are few nightly scuffles/attempts by a few vandals to cause trouble with the police, (just as rioters did in London last summer) but if you came to Bahrain yourself you would see that 99 per cent of the time it is safe and peaceful"
 		  </blockquote>
 		  <p>
-		    Also in January 2012, Cracknell <a href="http://www.guardian.co.uk/world/middle-east-live/2012/jan/12/syria-arab-league-monitors-cannot-stop-the-killing#block-26">wrote to</a> the Guardian to complain, on behalf of the Governement of Bahrain, about <a href="http://www.guardian.co.uk/commentisfree/2012/jan/11/business-bahrain-countess-of-wessex">an article</a> by Dr Ala'a Shehabi and Dr Kristian Ulrichsen. Cracknell reqested that the Guardian publish an article which he would provide, written by former UK Ambassador Sir Harold "Hooky" Walker. His request was denied.
+		    Also in January 2012, Cracknell <a href="https://web.archive.org/web/20151011132916/http://www.theguardian.com/world/middle-east-live/2012/jan/12/syria-arab-league-monitors-cannot-stop-the-killing#block-26">wrote to</a> the Guardian to complain, on behalf of the Governement of Bahrain, about <a href="https://web.archive.org/web/20170313021816/https://www.theguardian.com/commentisfree/2012/jan/11/business-bahrain-countess-of-wessex">an article</a> by Dr Ala'a Shehabi and Dr Kristian Ulrichsen. Cracknell requested that the Guardian publish an article which he would provide, written by former UK Ambassador Sir Harold "Hooky" Walker. His request was denied.
 		  </p>
 		  <p>
 		    Months later, Cracknell revealed to Hardigree that he had stopped doing PR for the Bahrain government but was convinced he -- and the government -- had been doing the right thing:
@@ -67,7 +67,7 @@
 		    I was never asked simply to spin the Government out of trouble. I was employed to give them constructive advice on presenting their reform agenda to the widest possible audience. As a senior journalist who has worked for several respected titles, I was invited by Bahrain to give them a hard-edged international perspective on its reputation. I always say that good PR comes from doing the right thing; and by and large they took that advice."
 		  </blockquote>
 		</div>
-		
+
 		<div class="well">
 		  <h3>Fees and Expenses</h3>
 		  <hr/>
@@ -75,7 +75,7 @@
 		    Unknown
 		  </p>
 		</div>
-		
+
 		<div class="well">
 		  <h3>Date of Hiring</h3>
 		  <hr/>
@@ -83,7 +83,7 @@
 		    January 2011, or earlier
 		  </p>
 		</div>
-		
+
 		<div class="well">
 		  <h3>Relevant Personnel</h3>
 		  <hr/>
@@ -91,13 +91,13 @@
 		    <li><a href="https://en.wikipedia.org/wiki/David_Cracknell">David Cracknell</a>, founder and director (Twitter: <a href="https://twitter.com/davidcracknell">@davidcracknell</a>)</li>
 		  </ul>
 		</div>
-		
+
 		<div class="well">
 		  <h3>Further Reading</h3>
 		  <hr/>
 		  <ul>
-		    <li>Jalopnik.com: <a href="http://jalopnik.com/5900113/how-bahrain-spends-millions-to-spin-the-press">How Bahrain Spends Millions To Spin The Press</a>, Apr 9, 2012</li>
-		    <li>Brian Whitaker's blog: <a href="http://www.al-bab.com/blog/2012/blog1201.htm#britain_and_bahrain_just_good_friends">Britain and Bahrain: just good friends</a>, Jan 14, 2012</li>
+		    <li>Jalopnik.com: <a href="https://web.archive.org/web/20171019223653/https://jalopnik.com/5900113/how-bahrain-spends-millions-to-spin-the-press">How Bahrain Spends Millions To Spin The Press</a>, Apr 9, 2012</li>
+		    <li>Brian Whitaker's blog: <a href="https://web.archive.org/web/20171020152823/http://al-bab.com/blog/2012/01/britain-and-bahrain-just-good-friends">Britain and Bahrain: just good friends</a>, Jan 14, 2012</li>
 		  </ul>
 		</div>
 	      </div>

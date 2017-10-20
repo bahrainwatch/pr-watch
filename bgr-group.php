@@ -4,19 +4,19 @@
     <title>BGR Group | PR Watch</title>
     <?php include("/home/bahrainwatch/bahrainwatch.org/head.php"); ?>
   </head>
-  
+
   <body>
     <?php include("/home/bahrainwatch/bahrainwatch.org/navbar.php"); ?>
-    
+
     <div class="container">
       <div class="row">
 	<div class="span12">
 	  <div class="maincontent" style="border:0px;">
             <?php include("subnav.php"); ?>
-	    
+
             <div class="row">
 	      <div class="span9 columns">
-		
+
 		<table class="table table-bordered table-condensed">
 		  <tr>
 		    <td style="width:50%;">
@@ -46,7 +46,7 @@
 		    </td>
 		  </tr>
 		</table>
-		
+
 		<div class="well">
 		  <h3>Relationship with Bahrain Government</h3>
 		  <hr/>
@@ -61,10 +61,10 @@
 		  </p>
 		  <blockquote>"Part of Mr Reid's role at BGR Group is increasing diplomatic relations between America and Bahrain by matching up interested American companies with relevant investment opportunities in the country."</blockquote>
 		  <p>
-		    The same pro-government publishing house printed <a href="http://www.gulfweeklyworldwide.com/Articles.aspx?articleid=24453">another fluff piece</a> in March 2010 about Reid's visit to Bahrain, without explaining the purpose his visit.
+		    The same pro-government publishing house printed <a href="https://web.archive.org/web/20171020113538/http://www.gulfweekly.com/Articles/24453//Bahrain-offers-a-range-of-opportunities-says-expert">another fluff piece</a> in March 2010 about Reid's visit to Bahrain, without explaining the purpose his visit.
 		  </p>
 		</div>
-		
+
 		<div class="well">
 		  <h3>Fees and Expenses</h3>
 		  <hr/>
@@ -85,11 +85,11 @@
 		  <h3>Relevant Personnel</h3>
 		  <hr/>
 		  <ul>
-		    <li><a href="http://www.bgrdc.com/x-bios/bgr-reid.html">Morris L. Reid</a>, Managing Director</li>
-		    <li><a href="http://www.bgrdc.com/x-bios/bgr-murphy.html">Dan Murphy</a>, Principal & General Counsel</li>
+		    <li><a href="https://web.archive.org/web/20121029152505/http://www.bgrdc.com/x-bios/bgr-reid.html">Morris L. Reid</a>, Managing Director</li>
+		    <li><a href="https://web.archive.org/web/20121029152458/http://bgrdc.com/x-bios/bgr-murphy.html">Dan Murphy</a>, Principal & General Counsel</li>
 		  </ul>
 		</div>
-		
+
 		<div class="well">
 		  <h3>Key Documents</h3>
 		  <hr/>
@@ -103,7 +103,7 @@
 		    <li>House lobbying disclosure: <a href="http://www.documentcloud.org/documents/406889-bgr-lobbying-q2-2012.html">Lobbying Report, Q2 2012</a></li>
 		  </ul>
 		</div>
-		
+
 		<div class="well">
 		  <h3>Additional Notes</h3>
 		  <hr/>
@@ -111,18 +111,18 @@
 		    In December 2011, an undercover investigation exposed how BGR Gabara (BGR Group's European wing) had planned to organize a social media campaign to target the singer Sting, after he cancelled a concert in Kazakhstan due to the Kazakh government's human rights abuses. Details in the links below:
 		  </p>
 		  <ul>
-		    <li>The Bureau of Investigative Journalism: <a href="http://www.thebureauinvestigates.com/2011/12/01/pr-company-proposed-campaign-against-sting/">PR company proposed campaign against Sting</a>, December 1, 2011</li>
-		    <li>The Bureau of Investigative Journalism: <a href="http://www.thebureauinvestigates.com/2011/12/07/in-video-bgr-gabara-exposed/">In Video: BGR Gabara exposed</a>, December 7, 2011</li>
-		    <li>The Independent: <a href="http://www.independent.co.uk/news/uk/politics/kazakhstan-pr-firms-plan-to-target-sting-after-gig-boycott-video-6273824.html">Kazakhstan: PR firm's plan to target Sting after gig boycott</a>, December 8, 2011</li>
+		    <li>The Bureau of Investigative Journalism: <a href="https://www.thebureauinvestigates.com/2011/12/01/pr-company-proposed-campaign-against-sting/">PR company proposed campaign against Sting</a>, December 1, 2011</li>
+		    <li>The Bureau of Investigative Journalism: <a href="https://vimeo.com/33285343">In Video: BGR Gabara exposed</a>, December 7, 2011</li>
+		    <li>The Independent: <a href="https://web.archive.org/web/20170324012554/http://www.independent.co.uk/news/uk/politics/kazakhstan-pr-firms-plan-to-target-sting-after-gig-boycott-video-6273824.html">Kazakhstan: PR firm's plan to target Sting after gig boycott</a>, December 8, 2011</li>
 		  </ul>
 		</div>
-		
+
 		<div class="well">
 		  <h3>Further Reading</h3>
 		  <hr/>
 		  <ul>
-		    <li>Gulf Daily News: <a href="http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=258554">Perfect 'peace envoys'</a>, Aug 30, 2009</li>
-		    <li>Gulf Weekly: <a href="http://www.gulfweeklyworldwide.com/Articles.aspx?articleid=24453">Bahrain offers a range of opportunities, says expert</a>, March 30, 2010</li>
+		    <li>Gulf Daily News: <a href="https://web.archive.org/web/20121105205913/http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=258554">Perfect 'peace envoys'</a>, Aug 30, 2009</li>
+		    <li>Gulf Weekly: <a href="https://web.archive.org/web/20171020113538/http://www.gulfweekly.com/Articles/24453//Bahrain-offers-a-range-of-opportunities-says-expert">Bahrain offers a range of opportunities, says expert</a>, March 30, 2010</li>
 		  </ul>
 		</div>
 	      </div>

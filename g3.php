@@ -1,13 +1,13 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <title>G3 | PR Watch</title>
     <?php include("/home/bahrainwatch/bahrainwatch.org/head.php"); ?>
   </head>
-  
+
   <body>
     <?php include("/home/bahrainwatch/bahrainwatch.org/navbar.php"); ?>
-    
+
     <div class="container">
       <div class="row">
 	<div class="span12">
@@ -61,15 +61,15 @@
 		    Among the pieces written by Graeme Lamb, or about his views on Bahrain published in the media are:
 		  </p>
 		  <ul>
-		    <li>Times of London: <a href="http://www.dt.bh/newsdetails.php?key=290711184231&newsid=170811210837">Don't Lump Bahrain In With Libya and Syria</a>, Aug 15, 2011</li>
-		    <li>Guardian: <a href="http://www.guardian.co.uk/commentisfree/2012/feb/22/democracy-arab-spring">Why narrowly cast the push for democracy as the 'Arab spring'?</a>, Feb 22, 2012</li>
-		    <li>Bahrain News Agency: <a href="http://bna.bh/portal/en/news/495555">Former British General praises reforms, efforts</a>, Feb 23, 2012</li>
-		    <li>Gulf Daily News: <a href="http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=324338">Bahrain has every right to be respected</a>, Feb 23, 2012</li>
-		    <li>Gulf Daily News: <a href="http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=324339">A 'little gem of a country'</a>, Feb 23, 2012</li>
-		    <li>Gulf Daily News: <a href="http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=324325">Listen to the silent majority!</a>, Feb 23, 2012</li>
+		    <li>Times of London: <a href="https://www.thetimes.co.uk/article/dont-lump-bahrain-in-with-libya-and-syria-mv7tdh3vh3z">Don't Lump Bahrain In With Libya and Syria</a>, Aug 15, 2011</li>
+		    <li>Guardian: <a href="https://web.archive.org/web/20160424200714/http://www.theguardian.com/commentisfree/2012/feb/22/democracy-arab-spring">Why narrowly cast the push for democracy as the 'Arab spring'?</a>, Feb 22, 2012</li>
+		    <li>Bahrain News Agency: <a href="https://web.archive.org/web/20171019085022/http://bna.bh/portal/en/news/495555">Former British General praises reforms, efforts</a>, Feb 23, 2012</li>
+		    <li>Gulf Daily News: <a href="https://web.archive.org/web/20120224014604/http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=324338">Bahrain has every right to be respected</a>, Feb 23, 2012</li>
+		    <li>Gulf Daily News: <a href="https://web.archive.org/web/20120224014601/http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=324339">A 'little gem of a country'</a>, Feb 23, 2012</li>
+		    <li>Gulf Daily News: <a href="https://web.archive.org/web/20120224014327/http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=324325">Listen to the silent majority!</a>, Feb 23, 2012</li>
 		  </ul>
 		  <p>
-		    After Lamb's relationship to G3 and its &pound;1.5m contract with the Bahraini regime <a href="https://chanad.posterous.com/western-apologists-and-their-pr-ties">came to light</a>, he denied having any knowledge about the contract when he was airing his views on Bahrain. Speaking to the Telegraph <a href="http://blogs.telegraph.co.uk/news/andrewgilligan/100142981/graeme-lamb-british-generals-company-paid-to-support-bahrain-dictatorship/">he asserted</a>:
+		    After Lamb's relationship to G3 and its &pound;1.5m contract with the Bahraini regime <a href="https://web.archive.org/web/20130328035344/https://chanad.posterous.com/western-apologists-and-their-pr-ties">came to light</a>, he denied having any knowledge about the contract when he was airing his views on Bahrain. Speaking to the Telegraph <a href="https://web.archive.org/web/20120315065539/http://blogs.telegraph.co.uk/news/andrewgilligan/100142981/graeme-lamb-british-generals-company-paid-to-support-bahrain-dictatorship/">he asserted</a>:
 		  </p>
 		  <blockquote>
 		    "I now know that is the case [that G3 was paid by Bahrain]."<br/><br/>
@@ -100,8 +100,8 @@
 		  <h3>Relevant Personnel</h3>
 		  <hr/>
 		  <ul>
-		    <li>Lt Gen <a href="https://en.wikipedia.org/wiki/Graeme_Lamb">Graeme Lamb</a>, special adviser to G3 and <a href="http://www.c5capital.co.uk/advisers.php">C5</a></li>
-		    <li><a href="http://www.g3.eu/team_andre_pienaar.php">Andre Pienaar</a>, founder and CEO of Good Governance Group</li>
+		    <li>Lt Gen <a href="https://en.wikipedia.org/wiki/Graeme_Lamb">Graeme Lamb</a>, special adviser to G3 and <a href="https://web.archive.org/web/20130528005608/http://www.c5capital.co.uk/advisers.php">C5</a></li>
+		    <li><a href="https://web.archive.org/web/20120401201435/http://g3.eu/team_andre_pienaar.php">Andre Pienaar</a>, founder and CEO of Good Governance Group</li>
 		  </ul>
 		</div>
 
@@ -117,7 +117,7 @@
 		  <h3>Additional Notes</h3>
 		  <hr/>
 		  <p>
-		    G3 was <a href="http://www.telegraph.co.uk/news/politics/conservative/8843810/Inside-the-corporate-intelligence-company-which-bankrolled-Liam-Fox.html">closely linked</a> to the UK political scandal that lead to <a href="http://www.telegraph.co.uk/news/politics/conservative/8828277/Chain-of-events-that-led-to-Liam-Foxs-resignation.html">the resignation</a> of former UK Secretary of State for Defence Liam Fox in October 2011.
+		    G3 was <a href="https://web.archive.org/web/20111228145255/http://www.telegraph.co.uk/news/politics/conservative/8843810/Inside-the-corporate-intelligence-company-which-bankrolled-Liam-Fox.html">closely linked</a> to the UK political scandal that lead to <a href="https://web.archive.org/web/20111220015203/http://www.telegraph.co.uk/news/politics/conservative/8828277/Chain-of-events-that-led-to-Liam-Foxs-resignation.html">the resignation</a> of former UK Secretary of State for Defence Liam Fox in October 2011.
 		  </p>
 		</div>
 
@@ -125,9 +125,9 @@
 		  <h3>Further Reading</h3>
 		  <hr/>
 		  <ul>
-		    <li>Chan'ad Bahraini: <a href="https://chanad.posterous.com/western-apologists-and-their-pr-ties">Western apologists and their PR ties</a>, Feb 24, 2012</li>
-		    <li>The Telegraph: <a href="http://blogs.telegraph.co.uk/news/andrewgilligan/100142981/graeme-lamb-british-generals-company-paid-to-support-bahrain-dictatorship/">Graeme Lamb: British general's company paid to support Bahrain dictatorship</a>, Mar 11, 2012</li>
-		    <li>The Telegraph: <a href="http://www.telegraph.co.uk/news/politics/conservative/8843810/Inside-the-corporate-intelligence-company-which-bankrolled-Liam-Fox.html">Inside the corporate intelligence company which bankrolled Liam Fox</a>, Oct 22, 2011</li>
+		    <li>Chan'ad Bahraini: <a href="https://web.archive.org/web/20130328035344/https://chanad.posterous.com/western-apologists-and-their-pr-ties">Western apologists and their PR ties</a>, Feb 24, 2012</li>
+		    <li>The Telegraph: <a href="https://web.archive.org/web/20120315065539/http://blogs.telegraph.co.uk/news/andrewgilligan/100142981/graeme-lamb-british-generals-company-paid-to-support-bahrain-dictatorship/">Graeme Lamb: British general's company paid to support Bahrain dictatorship</a>, Mar 11, 2012</li>
+		    <li>The Telegraph: <a href="https://web.archive.org/web/20111228145255/http://www.telegraph.co.uk/news/politics/conservative/8843810/Inside-the-corporate-intelligence-company-which-bankrolled-Liam-Fox.html">Inside the corporate intelligence company which bankrolled Liam Fox</a>, Oct 22, 2011</li>
 		  </ul>
 		</div>
 	      </div>

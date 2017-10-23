@@ -4,10 +4,10 @@
     <title>Dragon Associates | PR Watch</title>
     <?php include("/home/bahrainwatch/bahrainwatch.org/head.php"); ?>
   </head>
-  
+
   <body>
     <?php include("/home/bahrainwatch/bahrainwatch.org/navbar.php"); ?>
-    
+
     <div class="container">
       <div class="row">
 	<div class="span12">
@@ -32,7 +32,7 @@
 		  </tr>
 		  <tr>
 		    <td>
-		      <b>Website:</b> <a href="http://dragonassocs.com/">http://dragonassocs.com/</a>
+		      <b>Website:</b> <a href="https://web.archive.org/web/20121013064338/http://dragonassocs.com/">http://dragonassocs.com/</a>
 		    </td>
 		  </tr>
 		  <tr>
@@ -51,10 +51,10 @@
 		  <h3>Relationship with Bahrain Government</h3>
 		  <hr/>
 		  <p>
-		    Dragon Associates is a British PR and Strategic Communication firm (previously named <a href="https://www.companiesintheuk.co.uk/ltd/dragon-associates">Woodmint Ltd</a>) that has a contract with the Bahrain International Circuit (where Bahrain's Formula One Grand Prix race takes place). While their work involves putting out <a href="http://adamcooperf1.com/2012/04/10/bahrain-hits-back-with-positive-lotus-report/">press releases</a>, they also forced the Guardian to <a href="http://www.aljazeera.com/indepth/features/2012/02/201229153055296176.html">take down</a> an <a href="http://www.guardian.co.uk/commentisfree/2012/jan/30/bahrain-grand-prix">opinion piece</a> in January 2012 that claimed that the BIC.s head of security had tortured at least one of the company.s employees on the premises. With the exception of a superfluous addendum, the piece went back up unchanged - just after tickets for the Bahrain Grand Prix went on sale.
+		    Dragon Associates is a British PR and Strategic Communication firm (previously named <a href="https://web.archive.org/web/20171023073847/https://beta.companieshouse.gov.uk/company/07696012">Woodmint Ltd</a>) that has a contract with the Bahrain International Circuit (where Bahrain's Formula One Grand Prix race takes place). While their work involves putting out <a href="https://web.archive.org/web/20171019224008/https://adamcooperf1.com/2012/04/10/bahrain-hits-back-with-positive-lotus-report/">press releases</a>, they also forced the Guardian to <a href="https://web.archive.org/web/20171012054511/http://www.aljazeera.com/indepth/features/2012/02/201229153055296176.html">take down</a> an <a href="https://web.archive.org/web/20171019224319/https://www.theguardian.com/commentisfree/2012/jan/30/bahrain-grand-prix">opinion piece</a> in January 2012 that claimed that the BIC's head of security had tortured at least one of the company's employees on the premises. With the exception of a superfluous addendum, the piece went back up unchanged - just after tickets for the Bahrain Grand Prix went on sale.
 		  </p>
 		  <p>
-		    It is not clear exactly when, and for how much money, Dragon Associates was hired, but it is possible that it took over the work that another British PR company <a href="new-century-media.php">New Century Media</a>, was originally contracted for by the BIC in August 2011. The current Managing Director of Dragon Associates <a href="http://dragonassocs.com/who_we_are.html">Charlie Methven</a> was Managing Director of New Century Media until June 2011.
+		    It is not clear exactly when, and for how much money, Dragon Associates was hired, but it is possible that it took over the work that another British PR company <a href="new-century-media.php">New Century Media</a>, was originally contracted for by the BIC in August 2011. The current Managing Director of Dragon Associates <a href="https://web.archive.org/web/20121013002355/http://dragonassocs.com/who_we_are.html">Charlie Methven</a> was Managing Director of New Century Media until June 2011.
 		  </p>
 		</div>
 
@@ -78,7 +78,7 @@
     		  <h3>Relevant Personnel</h3>
 		  <hr/>
 		  <ul>
-		    <li><a href="http://dragonassocs.com/who_we_are.html">Charles Harry Finlayson Methven</a>, Managing Director and founder</li>
+		    <li><a href="https://web.archive.org/web/20121013002355/http://dragonassocs.com/who_we_are.html">Charles Harry Finlayson Methven</a>, Managing Director and founder</li>
 		  </ul>
 		</div>
 
@@ -86,10 +86,10 @@
 		  <h3>Further Reading</h3>
 		  <hr/>
 		  <ul>
-		    <li>Marc Owen Jones: <a href="https://marcowenjones.wordpress.com/2012/02/13/are-bahrain-finally-getting-their-moneys-worth-from-a-pr-company/">Are Bahrain finally getting their money's worth from a PR company?</a>, February 13, 2012</li>
-		    <li>AlJazeera.com: <a href="http://www.aljazeera.com/indepth/features/2012/02/201229153055296176.html">Suppressing the narrative in Bahrain</a>, February 16, 2012</li>
-		    <li>Marc Owen Jones: <a href="https://marcowenjones.wordpress.com/2012/02/20/the-pr-octopus-its-incredibly-long-tentacles/">The PR Octopus & Its Incredibly Long Tentacles</a>, February 20, 2012</li>
-		    <li>Adam Cooper's F1 blog: <a href="http://adamcooperf1.com/2012/04/10/bahrain-hits-back-with-positive-lotus-report/">Bahrain hits back with positive Lotus report</a>, April 10, 2012</li>
+		    <li>Marc Owen Jones: <a href="https://web.archive.org/web/20171019224008/https://marcowenjones.wordpress.com/2012/02/13/are-bahrain-finally-getting-their-moneys-worth-from-a-pr-company/">Are Bahrain finally getting their money's worth from a PR company?</a>, February 13, 2012</li>
+		    <li>AlJazeera.com: <a href="https://web.archive.org/web/20171012054511/http://www.aljazeera.com/indepth/features/2012/02/201229153055296176.html">Suppressing the narrative in Bahrain</a>, February 16, 2012</li>
+		    <li>Marc Owen Jones: <a href="https://web.archive.org/web/20171019224016/https://marcowenjones.wordpress.com/2012/02/20/the-pr-octopus-its-incredibly-long-tentacles/">The PR Octopus & Its Incredibly Long Tentacles</a>, February 20, 2012</li>
+		    <li>Adam Cooper's F1 blog: <a href="https://web.archive.org/web/20171019224008/https://adamcooperf1.com/2012/04/10/bahrain-hits-back-with-positive-lotus-report/">Bahrain hits back with positive Lotus report</a>, April 10, 2012</li>
 		  </ul>
 		</div>
 	      </div>

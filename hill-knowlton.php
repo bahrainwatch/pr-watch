@@ -4,10 +4,10 @@
     <title>Hill + Knowlton Strategies | PR Watch</title>
     <?php include("/home/bahrainwatch/bahrainwatch.org/head.php"); ?>
   </head>
-  
+
   <body>
     <?php include("/home/bahrainwatch/bahrainwatch.org/navbar.php"); ?>
-    
+
     <div class="container">
       <div class="row">
 	<div class="span12">
@@ -32,7 +32,7 @@
 		  </tr>
 		  <tr>
 		    <td>
-		      <b>Website:</b> <a href="http://www.hkstrategies.com">http://www.hkstrategies.com</a>
+		      <b>Website:</b> <a href="https://web.archive.org/web/20121008095333/http://www.hkstrategies.com/">http://www.hkstrategies.com</a>
 		    </td>
 		  </tr>
 		  <tr>
@@ -51,10 +51,10 @@
 		  <h3>Relationship with Bahrain Government</h3>
 		  <hr/>
 		  <p>
-		    In December 2011 Hill + Knowlton was <a href="http://www.documentcloud.org/documents/407963-bahrain-tenders-dec2011.html#document/p9/a67148">hired</a> by Bahrain's <a href="http://www.gop.bh/">General Organisation of Sea Ports</a> to perform "PR Strategy Formulation & Implementation Services". 
+		    In December 2011 Hill + Knowlton was <a href="http://www.documentcloud.org/documents/407963-bahrain-tenders-dec2011.html#document/p9/a67148">hired</a> by Bahrain's <a href="https://web.archive.org/web/20121009005955/http://www.gop.bh/">General Organisation of Sea Ports</a> to perform "PR Strategy Formulation & Implementation Services".
 		  </p>
 		  <p>
-		    However, the company has had an <a href="http://www.hkstrategies.com/Manama">office in Manama</a>, Bahrain's capital, <a href="http://www.hkstrategies.com/Middle_East_Public_Relations_Consultancy_of_the_Year">since 1985</a> which describes <a href="https://twitter.com/hk_bahrain">itself</a> as the "first communications agency office in the Middle East!"
+		    However, the company has had an <a href="https://web.archive.org/web/20170210175400/http://www.hkstrategiesmena.com/office/bahrain/">office in Manama</a>, Bahrain's capital, <a href="https://web.archive.org/web/20130405011746/http://www.hkstrategies.com/Middle_East_Public_Relations_Consultancy_of_the_Year">since 1985</a> which describes <a href="https://twitter.com/hk_bahrain">itself</a> as the "first communications agency office in the Middle East!"
 		  </p>
 		  <p>
 		    Deputy General Manager Julia Atherton-Dandy <a href="http://www.linkedin.com/pub/julia-atherton-dandy/31/922/bb">provides</a> a useful outline of some of duties Hill + Knowlton presently perform in Bahrain:
@@ -101,7 +101,7 @@
 		  <h3>Additional Notes</h3>
 		  <hr/>
 		  <p>
-		    In May 2011, Hill + Knowlton <a href="http://www.albawaba.com/hill-knowlton-hold-social-media-crisis-talk-business-community">held</a> a talk in Bahrain "on the role of social media during a crisis", in conjunction with the <a href="http://www.bbbforum.org/">Bahrain British Business Forum</a>.
+		    In May 2011, Hill + Knowlton <a href="https://web.archive.org/web/20130523132348/http://www.albawaba.com/hill-knowlton-hold-social-media-crisis-talk-business-community">held</a> a talk in Bahrain "on the role of social media during a crisis", in conjunction with the <a href="https://web.archive.org/web/20110817035635/http://www.bbbforum.org/">Bahrain British Business Forum</a>.
 		  </p>
 		</div>
 
@@ -109,7 +109,7 @@
 		  <h3>Further Reading</h3>
 		  <hr/>
 		  <ul>
-		    <li>"<a href="http://www.prwatch.org/books/tsigfy10.html/">How PR Sold the Gulf War</a>", excerpt about Hill+Knowlton from <i>Toxic Sludge is Good for You: Lies, Damn Lies and the Public Relations Industry</i> (2002) by John Stauber & Sheldon Rampton</li>
+		    <li>"<a href="https://web.archive.org/web/20171013054319/https://www.prwatch.org/books/tsigfy10.html">How PR Sold the Gulf War</a>", excerpt about Hill+Knowlton from <i>Toxic Sludge is Good for You: Lies, Damn Lies and the Public Relations Industry</i> (2002) by John Stauber & Sheldon Rampton</li>
 		  </ul>
 		</div>
 	      </div>

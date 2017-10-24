@@ -4,10 +4,10 @@
     <title>New Century Media | PR Watch</title>
     <?php include("/home/bahrainwatch/bahrainwatch.org/head.php"); ?>
   </head>
-  
+
   <body>
     <?php include("/home/bahrainwatch/bahrainwatch.org/navbar.php"); ?>
-    
+
     <div class="container">
       <div class="row">
 	<div class="span12">
@@ -32,7 +32,7 @@
 		  </tr>
 		  <tr>
 		    <td>
-		      <b>Website:</b> <a href="http://www.newcenturymedia.co.uk/">http://www.newcenturymedia.co.uk/</a>
+		      <b>Website:</b> <a href="https://web.archive.org/web/20171016094453/http://www.newcenturymedia.co.uk/">http://www.newcenturymedia.co.uk/</a>
 		    </td>
 		  </tr>
 		  <tr>
@@ -54,7 +54,7 @@
 		    New Century Media is a British public relations company. In August 2011, it was contracted by the Bahrain government-owned Bahrain International Circuit (where Bahrain's Formula One Grand Prix race takes place) for a fee of &pound;20,000 (approx $31,600) per month, according to <a href="http://www.documentcloud.org/documents/407023-bahrain-tenders-aug2011.html#document/p10/a66864">information posted</a> on the government's Tender Board website.
 		  </p>
 		  <p>
-		    It is not clear whether New Century Media is still working for the BIC, but it is possible that the contract may have been passed on to another British PR firm <a href="dragon-associates.php">Dragon Associates</a>. The current Managing Director of Dragon Associates, <a href="http://dragonassocs.com/who_we_are.html">Charlie Methven</a>, was until June 2011 Managing Director of New Century Media. Dragon Associates has been representing the BIC since at least February 2012 when it forced the Guardian to <a href="https://marcowenjones.wordpress.com/2012/02/13/are-bahrain-finally-getting-their-moneys-worth-from-a-pr-company/">take down</a> an opinion piece about abuses that allegedly took place on the premises of the BIC.
+		    It is not clear whether New Century Media is still working for the BIC, but it is possible that the contract may have been passed on to another British PR firm <a href="dragon-associates.php">Dragon Associates</a>. The current Managing Director of Dragon Associates, <a href="https://web.archive.org/web/20121013002355/http://dragonassocs.com/who_we_are.html">Charlie Methven</a>, was until June 2011 Managing Director of New Century Media. Dragon Associates has been representing the BIC since at least February 2012 when it forced the Guardian to <a href="https://web.archive.org/web/20171019224008/https://marcowenjones.wordpress.com/2012/02/13/are-bahrain-finally-getting-their-moneys-worth-from-a-pr-company/">take down</a> an opinion piece about abuses that allegedly took place on the premises of the BIC.
 		  </p>
 		</div>
 
@@ -94,8 +94,8 @@
 		  <h3>Further Reading</h3>
 		  <hr/>
 		  <ul>
-		    <li>Marc Owen Jones: <a href="https://marcowenjones.wordpress.com/2012/02/13/are-bahrain-finally-getting-their-moneys-worth-from-a-pr-company/">Are Bahrain finally getting their money's worth from a PR company?</a>, February 13, 2012</li>
-		    <li>Adam Cooper's F1 blog: <a href="http://adamcooperf1.com/2012/04/10/bahrain-hits-back-with-positive-lotus-report/">Bahrain hits back with positive Lotus report</a>, April 10, 2012</li>
+		    <li>Marc Owen Jones: <a href="https://web.archive.org/web/20171019224008/https://marcowenjones.wordpress.com/2012/02/13/are-bahrain-finally-getting-their-moneys-worth-from-a-pr-company/">Are Bahrain finally getting their money's worth from a PR company?</a>, February 13, 2012</li>
+		    <li>Adam Cooper's F1 blog: <a href="https://web.archive.org/web/20171019224008/https://adamcooperf1.com/2012/04/10/bahrain-hits-back-with-positive-lotus-report/">Bahrain hits back with positive Lotus report</a>, April 10, 2012</li>
 		  </ul>
 		</div>
 	      </div>

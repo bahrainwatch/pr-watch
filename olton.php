@@ -4,10 +4,10 @@
     <title>Olton | PR Watch</title>
     <?php include("/home/bahrainwatch/bahrainwatch.org/head.php"); ?>
   </head>
-  
+
   <body>
     <?php include("/home/bahrainwatch/bahrainwatch.org/navbar.php"); ?>
-    
+
     <div class="container">
       <div class="row">
 	<div class="span12">
@@ -32,7 +32,7 @@
 		  </tr>
 		  <tr>
 		    <td>
-		      <b>Website:</b> <a href="http://www.olton.co.uk/">http://www.olton.co.uk/</a>
+		      <b>Website:</b> <a href="https://web.archive.org/web/20111123183620/http://www.olton.co.uk/">http://www.olton.co.uk/</a>
 		    </td>
 		  </tr>
 		  <tr>
@@ -51,7 +51,7 @@
 		  <h3>Relationship with Bahrain Government</h3>
 		  <hr/>
 		  <p>
-		    Olton Ltd is a company based in London (<a href="http://companycheck.co.uk/company/04627654">until recently Bristol</a>) founded by Paul Manister, a former Senior Intelligence Analyst in the UK Navy. The company describes itself as a corporate intelligence consultancy that "<a href="http://www.linkedin.com/company/olton-maritime-intelligence">specialises</a> in the exploitation, collection, collation and fusion of Open Source Information."
+		    Olton Ltd is a company based in London (<a href="http://companycheck.co.uk/company/04627654">until recently Bristol</a>) founded by Paul Manister, a former Senior Intelligence Analyst in the UK Navy. The company describes itself as a corporate intelligence consultancy that "<a href="https://web.archive.org/web/20121027215235/http://www.linkedin.com/company/olton-maritime-intelligence">specialises</a> in the exploitation, collection, collation and fusion of Open Source Information."
 		  </p>
 		  <p>
 		    According to the list of <a href="http://www.documentcloud.org/documents/407026-bahrain-tenders-apr2011.html#document/p12/a66865">April 2011 tender awards</a> posted on the website of the government of Bahrain's <a href="http://www.tenderboard.gov.bh/">Tender Board</a>, Olton was awarded a two-month contract extension to work for Bahrain's Economic Development Board. The stated job was "to develop an electronic system to track international media." The stated payment for the two months of work was BD 49,000 (US$ 129,850). In April 2012, it was <a href="http://www.documentcloud.org/documents/408446-bahrain-tenders-apr2012.html#document/p3/a67344">awarded an extension</a> on a separate contract with the Bahrain Petroleum Company for BD 43,650 (US$ 115,673).
@@ -66,7 +66,7 @@
 		  <center><img src="/img/olton2.jpg"/></center>
 		  <center><img src="/img/Olton.jpg"/></center>
 		  <p>
-		    It is not clear what Olton's work for the Ministry of Interior involved. However, in the Middle East, Olton has been <a href="http://www.ameinfo.com/257360.html">heavily marketing</a> a software solution that digs up and collates information from the Internet quickly. In Olton's <a href="http://www.olton.co.uk/technology">own words</a>, it is a 'web-trawling' technology that they have named 'ORA'.
+		    It is not clear what Olton's work for the Ministry of Interior involved. However, in the Middle East, Olton has been <a href="https://web.archive.org/web/20121103181534/http://www.ameinfo.com/257360.html">heavily marketing</a> a software solution that digs up and collates information from the Internet quickly. In Olton's <a href="https://web.archive.org/web/20111224105401/http://www.olton.co.uk/technology">own words</a>, it is a 'web-trawling' technology that they have named 'ORA'.
 		  </p>
 		  <p>
 		    In 2008, the founder Paul Manister, and two other Olton employees, filed for a <a href="http://www.documentcloud.org/documents/407025-olton-patent.html#document/p30/a66866">U.S. patent</a> for a technology that does something similar. In the section about examples of uses of the technology, the patent applicants wrote (page 15, para 0170):
@@ -75,7 +75,7 @@
 		    "Security agencies may apply this capability to their efforts to detect and track insurgent activity, and provide a mechanism for operatives to pool and share their knowledge in a secure and controlled way."
 		  </blockquote>
 		  <p>
-		    On its website, Olton claims to be the "leaders in understanding the influential, modern 'Web 2.0' media, such as Twitter, Facebook and web forums, and their ever-morphing variations." In line with this, the "<a href="http://www.olton.co.uk/services/reputation-management">reputation management</a>" services offered by Olton include:
+		    On its website, Olton claims to be the "leaders in understanding the influential, modern 'Web 2.0' media, such as Twitter, Facebook and web forums, and their ever-morphing variations." In line with this, the "<a href="https://web.archive.org/web/20130511070838/http://www.olton.co.uk/services/reputation-management">reputation management</a>" services offered by Olton include:
 		  </p>
 		  <blockquote>
 		    <b>Stakeholder Mapping</b><br/>
@@ -127,9 +127,9 @@
 		  <h3>Further Reading</h3>
 		  <hr/>
 		  <ul>
-		    <li>The Next Web: <a href="http://thenextweb.com/me/2011/11/10/is-a-british-firm-helping-bahrains-ministry-of-interior-monitor-online-activity/">Is a British firm helping Bahrain's Ministry of Interior monitor online activity?</a>, Nov 10, 2011</li>
-		    <li>Chan'ad Bahraini: <a href="https://chanad.posterous.com/british-intelligence-gathering-firm-assists-b">British intelligence gathering firm assists Bahraini regime amidst crackdown</a>, Nov 10, 2011</li>
-		    <li>AMEInfo.com: <a href="http://www.ameinfo.com/257360.html">The Ora Platform delivered by Olton, Microsoft and Dell</a>, Feb 23, 2011</li>
+		    <li>The Next Web: <a href="https://web.archive.org/web/20170704160534/https://thenextweb.com/me/2011/11/10/is-a-british-firm-helping-bahrains-ministry-of-interior-monitor-online-activity/">Is a British firm helping Bahrain's Ministry of Interior monitor online activity?</a>, Nov 10, 2011</li>
+		    <li>Chan'ad Bahraini: <a href="https://web.archive.org/web/20111113091354/http://chanad.posterous.com/british-intelligence-gathering-firm-assists-b">British intelligence gathering firm assists Bahraini regime amidst crackdown</a>, Nov 10, 2011</li>
+		    <li>AMEInfo.com: <a href="https://web.archive.org/web/20121103181534/http://www.ameinfo.com/257360.html">The Ora Platform delivered by Olton, Microsoft and Dell</a>, Feb 23, 2011</li>
 		  </ul>
 		</div>
 	      </div>

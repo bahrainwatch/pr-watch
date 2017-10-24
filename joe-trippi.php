@@ -4,10 +4,10 @@
     <title>Joe Trippi &amp; Associates | PR Watch</title>
     <?php include("/home/bahrainwatch/bahrainwatch.org/head.php"); ?>
   </head>
-  
+
   <body>
     <?php include("/home/bahrainwatch/bahrainwatch.org/navbar.php"); ?>
-    
+
     <div class="container">
       <div class="row">
 	<div class="span12">
@@ -32,7 +32,7 @@
 		  </tr>
 		  <tr>
 		    <td>
-		      <b>Website:</b> <a href="http://www.trippiandassociates.com">http://www.trippiandassociates.com</a>
+		      <b>Website:</b> <a href="https://web.archive.org/web/20120719095023/http://www.trippiandassociates.com">http://www.trippiandassociates.com</a>
 		    </td>
 		  </tr>
 		  <tr>
@@ -51,7 +51,7 @@
 		  <h3>Relationship with Bahrain Government</h3>
 		  <hr/>
 		  <p>
-		    Joe Trippi & Associates is a D.C.-based media firm headed by Democratic political strategist <a href="https://en.wikipedia.org/wiki/Joe_Trippi">Joe Trippi</a>, who managed Howard Dean's 2004 U.S. presidential election campaign. He was <a href="http://www.salon.com/2011/09/01/joe_trippi_bahrain/">hired</a> by Bahrain's <a href="https://en.wikipedia.org/wiki/Information_Affairs_Authority">Information Affairs Authority</a> some time before August 2011, according to <a href="http://www.documentcloud.org/documents/406968-trippi-exhibit-ab-20110822-1.html">government registration documents</a>.
+		    Joe Trippi & Associates is a D.C.-based media firm headed by Democratic political strategist <a href="https://en.wikipedia.org/wiki/Joe_Trippi">Joe Trippi</a>, who managed Howard Dean's 2004 U.S. presidential election campaign. He was <a href="https://web.archive.org/web/20120128011955/http://www.salon.com/2011/09/01/joe_trippi_bahrain/">hired</a> by Bahrain's <a href="https://en.wikipedia.org/wiki/Information_Affairs_Authority">Information Affairs Authority</a> some time before August 2011, according to <a href="http://www.documentcloud.org/documents/406968-trippi-exhibit-ab-20110822-1.html">government registration documents</a>.
 		  </p>
 		  <p>
 		    In a March 2012 registration document, Trippi <a href="http://www.documentcloud.org/documents/406970-trippi-supplemental-statement-20120331-1.html#document/p4/a66850">described</a> their work for the Bahrain government in the following words:
@@ -81,7 +81,7 @@
 		    <a href="http://www.documentcloud.org/documents/406969-trippi-exhibit-ab-20111219-2.html#document/p1/a66849">$15,000 per month</a>. Trippi's work on this contract lasted at least six months, earning a total of $90,000 in consulting fees.  There were also $3000 in expenses, for a total of <b>$93,000</b>.
 		  </p>
 		  <p>
-		    (Note: Trippi was actually paid $30,000 per month, but half of that sum went to <a href="sanitas-international.php">Sanitas International</a> which had been subcontracted by Trippi). 
+		    (Note: Trippi was actually paid $30,000 per month, but half of that sum went to <a href="sanitas-international.php">Sanitas International</a> which had been subcontracted by Trippi).
 		  </p>
 		</div>
 
@@ -116,7 +116,7 @@
 		  <h3>Further Reading</h3>
 		  <hr/>
 		  <ul>
-		    <li>Salon.com: <a href="http://www.salon.com/2011/09/01/joe_trippi_bahrain/">Joe Trippi doing P.R. for Bahrain</a>, Sep 1, 2011</li>
+		    <li>Salon.com: <a href="https://web.archive.org/web/20120128011955/http://www.salon.com/2011/09/01/joe_trippi_bahrain/">Joe Trippi doing P.R. for Bahrain</a>, Sep 1, 2011</li>
 		  </ul>
 		</div>
 	      </div>

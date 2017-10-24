@@ -4,10 +4,10 @@
     <title>Mark Stewart Productions | PR Watch</title>
     <?php include("/home/bahrainwatch/bahrainwatch.org/head.php"); ?>
   </head>
-  
+
   <body>
     <?php include("/home/bahrainwatch/bahrainwatch.org/navbar.php"); ?>
-    
+
     <div class="container">
       <div class="row">
 	<div class="span12">
@@ -54,19 +54,19 @@
 		    Since at least 2010, Mark Stewart Productions (MSP) has been hired to make a series of promotional films for organisations connected to the Bahrain government, including the the Bahrain International Air Show, and the Bahrain International Circuit (BIC) which hosts Bahrain's Formula 1 Grand Prix race.
 		  </p>
 		  <p>
-		    In June 2011, when the Bahrain government was keen to convince the world that the planned Formula One race should proceed, MSP's documentary about the BIC - <i><a href="http://www.markstewartproductions.com/assets/files/videos/broadcast/crowning.mp4">A Crowning Achievement</a></i> - formed part of a media pack given to journalists. Philip Darley <a href="http://www.digitalways.net/2011/06/07/04-04-04-thy-kingdom-of-bahrain/">described</a> a screening he attended:
+		    In June 2011, when the Bahrain government was keen to convince the world that the planned Formula One race should proceed, MSP's documentary about the BIC - <i><a href="https://web.archive.org/web/20171024075549/http://www.markstewartproductions.com/assets/files/videos/broadcast/crowning.mp4">A Crowning Achievement</a></i> - formed part of a media pack given to journalists. Philip Darley <a href="http://www.digitalways.net/2011/06/07/04-04-04-thy-kingdom-of-bahrain/">described</a> a screening he attended:
 		  </p>
 		  <blockquote>
 		    We were invited to see for ourselves that Bahrain's own Arab spring had simmered, and to report that fact so that Bernie Ecclestone, the Formula One rights holder could give the go ahead for the race in October after it was delayed in March because of violence. No wonder we (the international media organisation I work for) were guests of the government.
 		  </blockquote>
 		  <p>
-		    The Crown Prince of Bahrain himself gave a personal thumbs-up to MSP, <a href="http://www.markstewartproductions.com/a-crowning-achievement">describing</a> them as:
+		    The Crown Prince of Bahrain himself gave a personal thumbs-up to MSP, <a href="https://web.archive.org/web/20111028002500/http://www.markstewartproductions.com/a-crowning-achievement">describing</a> them as:
 		  </p>
 		  <blockquote>
 		    Focused, professional, and a pleasure to work with. The MSP team went way beyond our expectations and produced something that will be of lasting value to our country.
 		  </blockquote>
 		  <p>
-		    Following the BIC documentary, MSP received a <a href="http://www.documentcloud.org/documents/407965-bahrain-tenders-oct2011.html#document/p14/a67150">contract in October 2011</a> from Bahrain's Civil Aviation Affairs department for "Digital Media Products and Services". In December, this contract listing was <a href="http://www.documentcloud.org/documents/407963-bahrain-tenders-dec2011.html#document/p8/a67149">amended</a> to specify that the services were in relation to the <a href="http://www.bahraininternationalairshow.com/">2012 Bahrain International Air Show</a>, and reducing MSP's fee from BD 241,000 to BD 150,000. The company had also <a href="http://www.markstewartproductions.com/bahrain-international-show">filmed</a> the 2010 Air Show.
+		    Following the BIC documentary, MSP received a <a href="http://www.documentcloud.org/documents/407965-bahrain-tenders-oct2011.html#document/p14/a67150">contract in October 2011</a> from Bahrain's Civil Aviation Affairs department for "Digital Media Products and Services". In December, this contract listing was <a href="http://www.documentcloud.org/documents/407963-bahrain-tenders-dec2011.html#document/p8/a67149">amended</a> to specify that the services were in relation to the <a href="https://en.wikipedia.org/wiki/Bahrain_International_Airshow">2012 Bahrain International Air Show</a>, and reducing MSP's fee from BD 241,000 to BD 150,000. The company had also <a href="https://web.archive.org/web/20171024080947/http://markstewartproductions.com/assets/files/videos/business/bias.mp4">filmed</a> the 2010 Air Show.
 		  </p>
 		</div>
 
@@ -90,8 +90,8 @@
 		  <h3>Relevant Personnel</h3>
 		  <hr/>
 		  <ul>
-		    <li><a href="http://www.markstewartproductions.com/ceo-mark-stewart">Mark Stewart</a>, CEO</li>
-		    <li><a href="http://www.markstewartproductions.com/coo-patrick-mark">Patrick Mark</a>, COO</li>
+		    <li><a href="https://web.archive.org/web/20111027091824/http://www.markstewartproductions.com/ceo-mark-stewart">Mark Stewart</a>, CEO</li>
+		    <li><a href="https://web.archive.org/web/20110802220631/http://www.markstewartproductions.com/coo-patrick-mark">Patrick Mark</a>, COO</li>
 		  </ul>
 		</div>
 
@@ -108,10 +108,10 @@
 		  <h3>Additional Notes</h3>
 		  <hr/>
 		  <p>
-		    MSP's film <i>A Crowning Achievement</i> is presented by former racing driver Jackie Stewart. In April 2012, Stewart made a public intervention in support of the Bahrain Grand Prix, following the government line <a href="http://www.bbc.co.uk/sport/0/formula1/17697011">that</a> it would "bring people together". This may not be a surprise given that Jackie Stewart is the <a href="http://www.thescottishsun.co.uk/scotsol/homepage/news/2377302/Film-maker-Mark-Stewart-makes-a-film-about-racing-driver-Jim-Clark.html">father of the CEO of MSP</a>!
+		    MSP's film <i>A Crowning Achievement</i> is presented by former racing driver Jackie Stewart. In April 2012, Stewart made a public intervention in support of the Bahrain Grand Prix, following the government line <a href="https://web.archive.org/web/20171024081914/http://www.bbc.com/sport/formula1/17697011">that</a> it would "bring people together". This may not be a surprise given that Jackie Stewart is the <a href="https://web.archive.org/web/20121027081127/http://www.thescottishsun.co.uk/scotsol/homepage/news/2377302/Film-maker-Mark-Stewart-makes-a-film-about-racing-driver-Jim-Clark.html">father of the CEO of MSP</a>!
 		  </p>
 		  <p>
-		    Another documentary produced by MSP - <i>Plus ca change: Formula One's 60th Anniversary</i> - was largely filmed at the Bahrain International Circuit at the opening to the 2010 Formula One Grand Prix. It was <a href="http://www.bbc.co.uk/programmes/b00zwmh2">screened on BBCFour</a> on four different occasions in 2011.
+		    Another documentary produced by MSP - <i>Plus ca change: Formula One's 60th Anniversary</i> - was largely filmed at the Bahrain International Circuit at the opening to the 2010 Formula One Grand Prix. It was <a href="https://web.archive.org/web/20150227170515/http://www.bbc.co.uk:80/programmes/b00zwmh2">screened on BBCFour</a> on four different occasions in 2011.
 		  </p>
 		</div>
 

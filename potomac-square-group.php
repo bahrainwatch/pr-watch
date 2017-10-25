@@ -4,10 +4,10 @@
     <title>Potomac Square Group | PR Watch</title>
     <?php include("/home/bahrainwatch/bahrainwatch.org/head.php"); ?>
   </head>
-  
+
   <body>
     <?php include("/home/bahrainwatch/bahrainwatch.org/navbar.php"); ?>
-    
+
     <div class="container">
       <div class="row">
 	<div class="span12">
@@ -32,7 +32,7 @@
 		  </tr>
 		  <tr>
 		    <td>
-		      <b>Website:</b> <a href="http://psqgrp.com/">http://psqgrp.com/</a>
+		      <b>Website:</b> <a href="https://web.archive.org/web/20140517032800/http://potomacsquaregroup.com/">http://potomacsquaregroup.com/</a>
 		    </td>
 		  </tr>
 		  <tr>
@@ -57,7 +57,7 @@
 		    Registrant will provide public affairs and strategic communications counsel to foreign principal. Such counsel may include written and oral advice on dealing with reporters and public officials. Service may include outreach to reporters and others in an effort to explain various positions held by the government of Bahrain.
 		  </blockquote>
 		  <p>
-		    A <a href="http://www.documentcloud.org/documents/407235-potomac-supplemental-statement-20111111-1.html#document/p4/a66932">later disclosure</a> explained that Potomas was specifically "to enlist Washington and US support for the <a href="https://www.youtube.com/watch?v=GDoEtUHtUwU">Crown Prince of Bahrain's 'National Dialogue' initiative</a>". This was done mostly by sending emails and phone calls to American media outlets, <a href="http://www.documentcloud.org/documents/407235-potomac-supplemental-statement-20111111-1.html#p10">namely</a>: CNN, NBC News, New York Times, Washington Post, Wall Street Journal, LA Times, National Times and the Associated Press.
+		    A <a href="http://www.documentcloud.org/documents/407235-potomac-supplemental-statement-20111111-1.html#document/p4/a66932">later disclosure</a> explained that Potomas was specifically "to enlist Washington and US support for the <a href="https://web.archive.org/web/20110226030811/https://www.youtube.com/watch?v=GDoEtUHtUwU">Crown Prince of Bahrain's 'National Dialogue' initiative</a>". This was done mostly by sending emails and phone calls to American media outlets, <a href="http://www.documentcloud.org/documents/407235-potomac-supplemental-statement-20111111-1.html#p10">namely</a>: CNN, NBC News, New York Times, Washington Post, Wall Street Journal, LA Times, National Times and the Associated Press.
 		  </p>
 		  <p>
 		    Potomac's work for the Bahrain Embassy expired on March 17, 2011, without being renewed. This work was probably taken up by the likes of <a href="qorvis.php">Qorvis Communications</a> which was hired soon afterwards.
@@ -101,8 +101,8 @@
 		  <h3>Further Reading</h3>
 		  <hr/>
 		  <ul>
-		    <li>Sunlight Foundation: <a href="http://sunlightfoundation.com/blog/2011/03/22/bahrains-pr-team/">Bahrain's PR Team</a>, March 22, 2011</li>
-		    <li>The Hill's Congress blog: <a href="http://thehill.com/blogs/congress-blog/foreign-policy/198385-meet-bahrains-lobbyists">Meet Bahrain's lobbyists</a>, December 9, 2011</li>
+		    <li>Sunlight Foundation: <a href="https://web.archive.org/web/20171021142855/https://sunlightfoundation.com/2011/03/22/bahrains-pr-team/">Bahrain's PR Team</a>, March 22, 2011</li>
+		    <li>The Hill's Congress blog: <a href="https://web.archive.org/web/20171019223327/http://thehill.com/blogs/congress-blog/foreign-policy/198385-meet-bahrains-lobbyists">Meet Bahrain's lobbyists</a>, December 9, 2011</li>
 		  </ul>
 		</div>
 	      </div>

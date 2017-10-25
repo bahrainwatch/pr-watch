@@ -4,10 +4,10 @@
     <title>Sorini, Samet &amp; Associates | PR Watch</title>
     <?php include("/home/bahrainwatch/bahrainwatch.org/head.php"); ?>
   </head>
-  
+
   <body>
     <?php include("/home/bahrainwatch/bahrainwatch.org/navbar.php"); ?>
-    
+
     <div class="container">
       <div class="row">
 	<div class="span12">
@@ -51,7 +51,7 @@
 		  <h3>Relationship with Bahrain Government</h3>
 		  <hr/>
 		  <p>
-		    In the crackdown against the pro-democracy protests of February 2011, the Bahraini government <a href="http://www.csmonitor.com/World/Middle-East/2011/0819/Bahrain-government-fires-hundreds-of-employees-for-political-views">collectively dismissed</a> hundreds of workers seen as sympathetic to the protests. In response, the AFL-CIO (the US's largest trade union federation) <a href="http://www.documentcloud.org/documents/406877-afl-cio-bahrain-fta-complaint.html">filed a complaint</a> with the US government 21 April 2011, calling on it to review its <a href="https://en.wikipedia.org/wiki/Bahrain%E2%80%93United_States_Free_Trade_Agreement">Free Trade Agreement with Bahrain</a> in light of the mass dismissals and labour rights violations.
+		    In the crackdown against the pro-democracy protests of February 2011, the Bahraini government <a href="https://web.archive.org/web/20160721215055/http://www.csmonitor.com/World/Middle-East/2011/0819/Bahrain-government-fires-hundreds-of-employees-for-political-views">collectively dismissed</a> hundreds of workers seen as sympathetic to the protests. In response, the AFL-CIO (the US's largest trade union federation) <a href="http://www.documentcloud.org/documents/406877-afl-cio-bahrain-fta-complaint.html">filed a complaint</a> with the US government 21 April 2011, calling on it to review its <a href="https://en.wikipedia.org/wiki/Bahrain%E2%80%93United_States_Free_Trade_Agreement">Free Trade Agreement with Bahrain</a> in light of the mass dismissals and labour rights violations.
 		  </p>
 		  <p>
 		    To prepare its response to the AFL-CIO submission, the government of Bahrain hired the services of Sorini, Samet &amp; Associates (SS&amp;A) in May 2011. According to the terms of <a href="http://www.documentcloud.org/documents/406665-sorinisamet-exhibit-ab-20110526-21.html#p5">the contract</a>, the lobbying firm would not only advise on the content of the reply and other official paperwork, but it would also arrange for meetings with US government officials, Members of Congress, the AFL-CIO, human rights groups, think tanks and scholars, the US business community, and the media.
@@ -63,12 +63,12 @@
 		    In June/July 2011, SS&amp;A arranged a <a href="http://www.documentcloud.org/documents/406667-sorinisamet-supplemental-statement-20111216-10.html#document/p36/a66669">Washington DC charm offensive by Bahrain's ministers of labour and industry &amp; commerce. Below are links to government press releases about the meetings:
 		  </p>
 		  <ul>
-		    <li><a href="http://www.bna.bh/portal/en/news/463001">Bahraini Delegation Meets US Officials</a> (June 29, 2011)</li>
-		    <li><a href="http://bna.bh/portal/en/news/463140">Bahraini Delegation to the USA Holds Meetings with US Officials</a> (June 30, 2011)</li>
-		    <li><a href="http://twentyfoursevennews.com/gcc/bahrain-goverment/industry-commerce/bahraini-ministers-dr-fakhro-and-humaidan-meet-us-officials/">Bahraini Ministers Dr Fakhro and Humaidan meet US officials</a> (July 4, 2011)</li>
+		    <li><a href="https://web.archive.org/web/20171025100432/http://www.bna.bh/portal/en/news/463001">Bahraini Delegation Meets US Officials</a> (June 29, 2011)</li>
+		    <li><a href="https://web.archive.org/web/20171025100557/http://bna.bh/portal/en/news/463140">Bahraini Delegation to the USA Holds Meetings with US Officials</a> (June 30, 2011)</li>
+		    <li><a href="https://web.archive.org/web/20171025100833/http://www.twentyfoursevennews.com/bahrain-goverment/industry-commerce/bahraini-ministers-dr-fakhro-and-humaidan-meet-us-officials/">Bahraini Ministers Dr Fakhro and Humaidan meet US officials</a> (July 4, 2011)</li>
 		  </ul>
 		  <p>
-		    The main point of contact for this contract is SS&amp;A co-founder Andrew Samet. He has made made several trips to Bahrain that have been proudly reported by Bahrain's state news agency, referring to him at different times as "<a href="http://bna.bh/portal/en/news/475491">US Legal Advisor</a>", "<a href="http://www.bna.bh/portal/en/news/492680">U.S. Counsel</a>" and "<a href="http://bna.bh/portal/en/news/458162">US Consultant</a>" -- as though he is working for the US government.
+		    The main point of contact for this contract is SS&amp;A co-founder Andrew Samet. He has made made several trips to Bahrain that have been proudly reported by Bahrain's state news agency, referring to him at different times as "<a href="https://web.archive.org/web/20111103071506/http://www.bna.bh/portal/en/news/475491">US Legal Advisor</a>", "<a href="https://web.archive.org/web/20171025101052/http://www.bna.bh/portal/en/news/492680">U.S. Counsel</a>" and "<a href="https://web.archive.org/web/20171025101149/http://bna.bh/portal/en/news/458162">US Consultant</a>" -- as though he is working for the US government.
 		  </p>
 		  <p>
 		    The original contract was set to expire after a year, on May 8, 2012. It is not clear whether the contract was renewed or not.
@@ -117,10 +117,10 @@
 		  <h3>Further Reading</h3>
 		  <hr/>
 		  <ul>
-		    <li>Salon.com: <a href="http://www.salon.com/2011/06/10/bahrain_sorini_samet_afl/">DC law firm defends Bahrain on human rights crackdown</a>, Jun 10, 2011</li>
-		    <li>Bahrain News Agency: <a href="http://www.bna.bh/portal/en/news/458162">Dr. Fakhro Receives US Consultant and German Ambassador</a>, May 26, 2011</li>
-		    <li>Bahrain News Agency: <a href="http://bna.bh/portal/en/news/475491">Industry and Commerce Minister receives Baitak CEO and US Legal Advisor, Oct 5, 2011</li>
-		    <li>Bahrain News Agency: <a href="http://www.bna.bh/portal/en/news/492680">Minister of Industry and Commerce receives U.S Counsel</a> Feb 6, 2012</li>
+		    <li>Salon.com: <a href="https://web.archive.org/web/20160701205213/http://www.salon.com/2011/06/10/bahrain_sorini_samet_afl/">DC law firm defends Bahrain on human rights crackdown</a>, Jun 10, 2011</li>
+		    <li>Bahrain News Agency: <a href="https://web.archive.org/web/20171025101149/http://bna.bh/portal/en/news/458162">Dr. Fakhro Receives US Consultant and German Ambassador</a>, May 26, 2011</li>
+		    <li>Bahrain News Agency: <a href="https://web.archive.org/web/20111103071506/http://www.bna.bh/portal/en/news/475491">Industry and Commerce Minister receives Baitak CEO and US Legal Advisor, Oct 5, 2011</li>
+		    <li>Bahrain News Agency: <a href="https://web.archive.org/web/20171025101052/http://www.bna.bh/portal/en/news/492680">Minister of Industry and Commerce receives U.S Counsel</a> Feb 6, 2012</li>
 		  </ul>
 		</div>
 	      </div>

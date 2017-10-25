@@ -4,10 +4,10 @@
     <title>Sanitas International | PR Watch</title>
     <?php include("/home/bahrainwatch/bahrainwatch.org/head.php"); ?>
   </head>
-  
+
   <body>
     <?php include("/home/bahrainwatch/bahrainwatch.org/navbar.php"); ?>
-    
+
     <div class="container">
       <div class="row">
 	<div class="span12">
@@ -32,7 +32,7 @@
 		  </tr>
 		  <tr>
 		    <td>
-		      <b>Website:</b> <a href="http://www.sanitasint.com/">http://www.sanitasint.com/</a>
+		      <b>Website:</b> <a href="https://web.archive.org/web/20171019224516/https://www.sanitasint.com/">http://www.sanitasint.com/</a>
 		    </td>
 		  </tr>
 		  <tr>
@@ -46,7 +46,7 @@
 		    </td>
 		  </tr>
 		</table>
-		
+
 		<div class="well">
 		  <h3>Relationship with Bahrain Government</h3>
 		  <hr/>
@@ -63,10 +63,10 @@
 		    According to <a href="http://www.documentcloud.org/documents/406362-5963-supplemental-statement-20111215-5.html#p11">a disclosure</a> covering its activities between May and November 2011, Sanitas's work for Bahrain seems to mostly involve sending emails (many unsolicited) to journalists and thinktanks passing on press releases, requesting meetings with Bahraini officials, and requesting for op-eds to be published.
 		  </p>
 		  <p>
-		    Many of the emails, it seems, go unanswered. For example, in October 2011, Sanitas <a href="http://www.documentcloud.org/documents/406362-5963-supplemental-statement-20111215-5.html#document/p48/a66536">emailed</a> staff at the Huffington Post separately three times requesting to publish an op-ed by a British resident in Bahrain who earlier had <a href="http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=302421">a piece printed</a> in a local pro-government newspaper. Sanitas had better luck the next month when the Washington Times <a href="http://www.washingtontimes.com/news/2011/nov/30/bahrain-a-vital-us-ally/?page=all">printed</a> an op-ed it had <a href="http://www.documentcloud.org/documents/406362-5963-supplemental-statement-20111215-5.html#document/p57/a66542">submitted</a> attributed to former commander of the US Navy's Fifth Fleet Vice Admiral Charles Moore. The Washington Times <a href="http://www.salon.com/2012/01/04/lockheed_martin_goes_to_bat_for_oppressive_regime/singleton/">forgot to mention</a> the PR connection between the op-ed piece and Sanitas or the Bahraini government.
+		    Many of the emails, it seems, go unanswered. For example, in October 2011, Sanitas <a href="http://www.documentcloud.org/documents/406362-5963-supplemental-statement-20111215-5.html#document/p48/a66536">emailed</a> staff at the Huffington Post separately three times requesting to publish an op-ed by a British resident in Bahrain who earlier had <a href="https://web.archive.org/web/20121105005427/http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=302421">a piece printed</a> in a local pro-government newspaper. Sanitas had better luck the next month when the Washington Times <a href="https://web.archive.org/web/20150523091420/http://www.washingtontimes.com/news/2011/nov/30/bahrain-a-vital-us-ally/">printed</a> an op-ed it had <a href="http://www.documentcloud.org/documents/406362-5963-supplemental-statement-20111215-5.html#document/p57/a66542">submitted</a> attributed to former commander of the US Navy's Fifth Fleet Vice Admiral Charles Moore. The Washington Times <a href="https://web.archive.org/web/20170718124100/http://www.salon.com/2012/01/04/lockheed_martin_goes_to_bat_for_oppressive_regime/">forgot to mention</a> the PR connection between the op-ed piece and Sanitas or the Bahraini government.
 		  </p>
 		  <p>
-		    Sanitas is also responsible for a number of pro-government news features distributed through the <a href="http://www.napsinfo.com/About.htm">North American Precis Syndicate</a>, a paid press release distribution service.
+		    Sanitas is also responsible for a number of pro-government news features distributed through the <a href="https://web.archive.org/web/20120214221543/http://www.napsinfo.com/About.htm">North American Precis Syndicate</a>, a paid press release distribution service.
 		  </p>
 		</div>
 
@@ -111,8 +111,8 @@
 		  <h3>Further Reading</h3>
 		  <hr/>
 		  <ul>
-		    <li>Salon.com: <a href="http://www.salon.com/2012/01/04/lockheed_martin_goes_to_bat_for_oppressive_regime/singleton/">Lockheed Martin goes to bat for oppressive regime</a>, Jan 4, 2012</li>
-		    <li>The Bureau of Investigative Journalism: <a href="http://www.thebureauinvestigates.com/2012/04/20/the-inside-track-how-lobbyists-have-helped-launder-bahrains-reputation/">The inside track: how lobbyists have helped launder Bahrain's reputation</a>, April 20, 2012</li>
+		    <li>Salon.com: <a href="https://web.archive.org/web/20170718124100/http://www.salon.com/2012/01/04/lockheed_martin_goes_to_bat_for_oppressive_regime/">Lockheed Martin goes to bat for oppressive regime</a>, Jan 4, 2012</li>
+		    <li>The Bureau of Investigative Journalism: <a href="https://web.archive.org/web/20140503172140/https://www.thebureauinvestigates.com/2012/04/20/the-inside-track-how-lobbyists-have-helped-launder-bahrains-reputation/">The inside track: how lobbyists have helped launder Bahrain's reputation</a>, April 20, 2012</li>
 		  </ul>
 		</div>
 	      </div>
